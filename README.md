@@ -1,2 +1,2 @@
-#laravel-inertia-template
+# laravel-inertia-template
 `npm install` `composer install`
